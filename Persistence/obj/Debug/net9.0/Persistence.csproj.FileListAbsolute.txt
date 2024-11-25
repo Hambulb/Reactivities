@@ -1,0 +1,15 @@
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\bin\Debug\net9.0\Persistence.deps.json
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\bin\Debug\net9.0\Persistence.dll
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\bin\Debug\net9.0\Persistence.pdb
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\bin\Debug\net9.0\Domain.dll
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\bin\Debug\net9.0\Domain.pdb
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.dll
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll

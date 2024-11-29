@@ -13,3 +13,4 @@ C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\De
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json

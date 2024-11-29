@@ -15,3 +15,4 @@ C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Application\obj\De
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Application\obj\Debug\net9.0\Application.sourcelink.json

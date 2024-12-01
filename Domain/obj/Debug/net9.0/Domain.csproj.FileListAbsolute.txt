@@ -10,3 +10,15 @@ C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Domain\obj\Debug\n
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Domain\obj\Debug\net9.0\ref\Domain.dll
 C:\Users\Hamish\Documents\Learning\TryCatchLearn\Reactivities\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\hamis\Documents\Learning\TryCatchLearn\Reactivities\Reactivities\Domain\obj\Debug\net9.0\ref\Domain.dll

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\API\\API.csproj": {}
+    "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\API\\API.csproj": {
+    "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\hamis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\API\\obj\\",
+        "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Hamish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hamis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hamish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,15 +27,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Application\\Application.csproj"
+              "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -93,21 +92,21 @@
         }
       }
     },
-    "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\hamis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Hamish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hamis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hamish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -116,18 +115,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -147,6 +145,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )"
@@ -172,21 +174,21 @@
         }
       }
     },
-    "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\hamis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Hamish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hamis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hamish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -195,7 +197,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -238,21 +239,21 @@
         }
       }
     },
-    "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\hamis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Hamish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hamis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hamish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -261,15 +262,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\hamis\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Hamish\\Documents\\Learning\\TryCatchLearn\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
